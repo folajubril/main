@@ -1,0 +1,18 @@
+.overlay{
+    background-color: white;
+    width: 520px;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 32px;
+    z-index:  5;
+}
+.overlay-top{
+    display: flex;
+    justify-items: space-between;
+}
+.action{
+background: #6FCF97;
+border-radius: 8px;
+}
